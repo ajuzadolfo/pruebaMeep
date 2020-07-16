@@ -7569,3 +7569,76 @@
 2020-07-16 09:56:47,328 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00316, name=85ZB11, range=47, batteryLevel=62, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
 2020-07-16 09:56:47,328 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00214, name=38VO63, range=54, batteryLevel=72, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
 2020-07-16 09:56:47,329 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00223, name=41VO11, range=52, batteryLevel=69, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:17,951 INFO o.s.b.StartupInfoLogger [main] Starting TareaTest on MX3500906DC0278 with PID 7400 (started by X03543UR in C:\Users\X03543UR\Documents\NetBeansProjects\prueba_meep)
+2020-07-16 10:13:17,957 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-07-16 10:13:19,735 INFO o.s.b.StartupInfoLogger [main] Started TareaTest in 2.178 seconds (JVM running for 4.751)
+2020-07-16 10:13:21,076 INFO e.m.p.h.Tarea [scheduling-1] ----------------------------------------------------------------------------------------------------------
+2020-07-16 10:13:21,077 INFO e.m.p.h.Tarea [scheduling-1] cantidad de vehículos: 65
+2020-07-16 10:13:21,077 INFO e.m.p.h.Tarea [scheduling-1] ----------------------------------------------------------------------------------------------------------
+2020-07-16 10:13:21,081 INFO e.m.p.h.Tarea [scheduling-1] Vehículos con bateria al 25% o menos: 9
+2020-07-16 10:13:21,081 INFO e.m.p.h.Tarea [scheduling-1] Vehículos con bateria al 75% o mas: 10
+2020-07-16 10:13:21,082 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00362, name=15ZC50, range=62, batteryLevel=82, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,082 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00351, name=03ZB72, range=12, batteryLevel=16, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,083 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00441, name=03ZB94, range=19, batteryLevel=25, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,083 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00423, name=02ZB86, range=29, batteryLevel=38, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,083 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00034, name=49VF50, range=34, batteryLevel=45, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,083 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00426, name=04ZB83, range=44, batteryLevel=58, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,084 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00377, name=02ZB89, range=12, batteryLevel=16, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,084 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00096, name=10VJ89, range=19, batteryLevel=25, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,084 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00203, name=24VO79, range=43, batteryLevel=57, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,084 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00473, name=15ZC94, range=36, batteryLevel=48, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,085 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00108, name=11VJ55, range=57, batteryLevel=76, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,085 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00011, name=26VG77, range=61, batteryLevel=81, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,085 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00437, name=02ZB85, range=19, batteryLevel=25, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,085 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00046, name=81VI57, range=34, batteryLevel=45, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,086 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00299, name=74ZB78, range=50, batteryLevel=66, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,086 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00486, name=16ZC42, range=45, batteryLevel=60, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,086 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00206, name=26VO10, range=41, batteryLevel=54, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,086 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00073, name=84VI01, range=11, batteryLevel=14, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,087 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00159, name=80VJ18, range=24, batteryLevel=32, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,087 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00331, name=96ZB24, range=34, batteryLevel=45, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,087 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00019, name=46VF76, range=37, batteryLevel=49, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,088 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00094, name=10VJ79, range=63, batteryLevel=84, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,088 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00130, name=12VJ97, range=22, batteryLevel=29, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,088 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00002, name=24VG22, range=32, batteryLevel=42, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,088 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00382, name=01ZB79, range=57, batteryLevel=76, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,089 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00272, name=69VP63, range=14, batteryLevel=18, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,089 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00305, name=73ZB77, range=23, batteryLevel=30, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,089 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00095, name=10VJ82, range=12, batteryLevel=16, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,089 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00138, name=13VJ32, range=48, batteryLevel=64, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,090 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00135, name=13VJ19, range=26, batteryLevel=34, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,090 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00148, name=80VJ61, range=40, batteryLevel=53, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,090 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00038, name=39VE15, range=50, batteryLevel=66, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,091 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00499, name=16ZC59, range=32, batteryLevel=42, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,091 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00371, name=04ZB13, range=63, batteryLevel=84, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,091 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00173, name=18VL24, range=24, batteryLevel=32, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,091 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00353, name=01ZB44, range=25, batteryLevel=33, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,092 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00157, name=80VJ35, range=25, batteryLevel=33, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,092 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00461, name=15ZC10, range=40, batteryLevel=53, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,092 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00404, name=15ZC33, range=38, batteryLevel=50, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,092 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00357, name=14ZC57, range=63, batteryLevel=84, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,093 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00360, name=03ZB43, range=49, batteryLevel=65, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,093 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00247, name=55VO16, range=31, batteryLevel=41, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,093 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00167, name=02VL47, range=53, batteryLevel=70, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,094 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00251, name=66VP48, range=45, batteryLevel=60, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,094 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00260, name=68VP37, range=58, batteryLevel=77, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,094 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00422, name=01ZB99, range=22, batteryLevel=29, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,094 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00062, name=82VI58, range=56, batteryLevel=74, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,095 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00332, name=95ZB69, range=20, batteryLevel=26, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,095 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00074, name=82VI15, range=40, batteryLevel=53, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,095 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00144, name=13VJ77, range=61, batteryLevel=81, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,095 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00356, name=02ZB24, range=40, batteryLevel=53, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,096 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00054, name=83VI79, range=54, batteryLevel=72, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,096 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00429, name=03ZB01, range=55, batteryLevel=73, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,096 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00089, name=10VJ55, range=39, batteryLevel=52, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,097 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00093, name=10VJ74, range=55, batteryLevel=73, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,097 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00411, name=15ZC54, range=41, batteryLevel=54, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,097 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00300, name=75ZB55, range=9, batteryLevel=12, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,097 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00472, name=17ZC05, range=66, batteryLevel=88, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,098 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00273, name=67VP90, range=31, batteryLevel=41, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,098 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00261, name=66VP70, range=22, batteryLevel=29, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,098 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00052, name=82VI97, range=27, batteryLevel=36, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,099 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00316, name=85ZB11, range=47, batteryLevel=62, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,099 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00315, name=85ZB24, range=27, batteryLevel=36, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,099 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00214, name=38VO63, range=54, batteryLevel=72, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
+2020-07-16 10:13:21,099 INFO e.m.p.h.Tarea [scheduling-1] Vehiculo{id=PT-LIS-A00223, name=41VO11, range=52, batteryLevel=69, helmets=2, model=Askoll, resourceType=MOPED, companyZoneId=473}
